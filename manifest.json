@@ -8,21 +8,6 @@
           "src": "icon",
           "sizes": "64x64",
           "type": "image/ico"
-        },
-        {
-          "src": "android-icon-36x36",
-          "sizes": "36x36",
-          "type": "image/png"
-        },
-        {
-          "src": "android-icon-48x48",
-          "sizes": "48x48",
-          "type": "image/png"
-        },
-        {
-          "src": "android-icon-72x72",
-          "sizes": "72x72",
-          "type": "image/png"
         }
       ],
     "name": "Сalculator PWA"
