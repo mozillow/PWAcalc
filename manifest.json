@@ -1,0 +1,14 @@
+{
+    "background_color": "#2c95ff",
+    "categories": ["education"],
+    "description": "PWA калькулятор",
+    "display": "fullscreen",
+    "icons": [
+        {
+          "src": "icon.ico",
+          "sizes": "64x64",
+          "type": "image/ico"
+        }
+      ],
+    "name": "Сalculator PWA"
+}
