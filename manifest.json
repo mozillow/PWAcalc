@@ -5,6 +5,11 @@
     "display": "fullscreen",
     "icons": [
         {
+          "src": "icon",
+          "sizes": "64x64",
+          "type": "image/ico"
+        },
+        {
           "src": "android-icon-36x36",
           "sizes": "36x36",
           "type": "image/png"
